@@ -1,7 +1,29 @@
+* {
+  margin: 0 auto;
+}
+
+.repeat {
+  text-align: center;
+}
+
+.repeat__head {
+  width: 600px;
+  height: 100px;
+  background-color: rgb(240 200 100);
+  border: 5px dotted #f00;
+}
+
 .repeat__header {
+  padding-top: 30px;
   color: #f00;
 }
 
 .repeat__footer {
+  width: 600px;
+  height: 70px;
+  background-color: #000;
+}
+
+.header__footer {
   color: orange;
 }
